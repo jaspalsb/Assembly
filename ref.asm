@@ -17,7 +17,7 @@ hi	= 999
 
 .data
 
-myIntro				BYTE	"Sorting Random Integers           Programmed by Jaspal Bainiwal",0
+myIntro				BYTE	"          Programmed by Jaspal Bainiwal",0
 user_directions1	BYTE	"This program generates random numbers in the range [100 .. 999],",0
 user_directions2	BYTE	"displays the original list, sorts the list, and calculates the",0
 user_directions3	BYTE	"median value. Finally, it displays the list sorted in descending order.",0

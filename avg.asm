@@ -8,7 +8,7 @@ INCLUDE Irvine32.inc
 .data
 lower_limit	= -100
 upper_limit = -1
-intro				BYTE	"Welcome to the Integer Accumulator by Jaspal Bainiwal", 0
+intro				BYTE	"Jaspal Bainiwal", 0
 name_prompt			BYTE	"What is your name ?", 0
 name_input			BYTE	33 DUP(0)
 name_prompt2		BYTE	"Hello, ", 0

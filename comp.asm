@@ -14,7 +14,7 @@ INCLUDE Irvine32.inc
 .data
 lower_limit		  =		0
 upper_limit		  =		400
-nameIntro		BYTE	"Composite Numbers           Programmed by Jaspal bainiwal",0
+nameIntro		BYTE	"Jaspal bainiwal",0
 directions		BYTE	"Enter the number of composite numbers you would like to see.",0
 directions2		BYTE	"I'll accept orders for up to 400 composites.",0
 getData			BYTE	"Enter the number of composites to display [1 ... 400]: ",0

@@ -18,9 +18,9 @@ hi	= 999
 .data
 
 myIntro				BYTE	"          Programmed by Jaspal Bainiwal",0
-user_directions1	BYTE	"This program generates random numbers in the range [100 .. 999],",0
-user_directions2	BYTE	"displays the original list, sorts the list, and calculates the",0
-user_directions3	BYTE	"median value. Finally, it displays the list sorted in descending order.",0
+user_directions1	BYTE	"This program generates random numbers in a range",0
+user_directions2	BYTE	"displays the lists",0
+user_directions3	BYTE	"It displays the list sorted order",0
 prompt1				BYTE	"How many numbers should be generated? [10 .. 200]: ",0
 notInRange			BYTE	"Invalid input",0
 myMedian			BYTE	"The median is ",0
